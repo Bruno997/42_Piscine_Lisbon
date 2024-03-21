@@ -76,7 +76,7 @@ Neste repositório tem todo meu percurso na Piscine da 42 Lisbon.
    $ git clone git@github.com:Bruno997/42-Piscine.git 42_Piscine
 
    - Enter in directory:
-   $ cd Happy
+   $ cd 42_Piscine
    ```
 
 <h2 align="center">License 📝</h2>
