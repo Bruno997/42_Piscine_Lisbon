@@ -6,6 +6,7 @@
 
 <h2 align="center">About 📖</h2>
 
+https://42lisboapiscine16.slack.com/files/U06M62AAZS5/F06QGGJ28BG/42-exam.zip
 
 # 42 Lisbon
 Neste repositório tem todo meu percurso na Piscine da 42 Lisbon.
