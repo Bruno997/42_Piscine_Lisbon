@@ -62,7 +62,7 @@ Neste repositório tem todo meu percurso na Piscine da 42 Lisbon.
 
 - Shell 🚀
 - C Language ☕
-- Git  👨‍🍳
+- Git and Github 👨‍🍳
 - Unix 📦
 
 
